@@ -306,7 +306,7 @@ This dashboard can be used by:
 
 to **detect unauthorized access attempts** and **respond to SSH-based attacks efficiently**.
 
-![Uploading 81.png…]()
+<img width="1919" height="1079" alt="81" src="https://github.com/user-attachments/assets/212cbe4a-cd15-40ce-8498-f25bcdeddb52" />
 
 
 
